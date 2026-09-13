@@ -65,3 +65,7 @@ Per contribuire controllare sempre che la cartella sia aggiornata con quanto sal
 ----
 
 Ultimo aggiornamento del programma Agosto 2024
+
+### Risorsa complementare
+
+Per il passaggio dai fondamenti di JavaScript allo sviluppo tipizzato, può essere utile anche [The Concise TypeScript Book in italiano](https://gibbok.github.io/typescript-book/it-it/), una guida gratuita e open source.
